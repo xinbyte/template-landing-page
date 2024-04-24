@@ -21,7 +21,7 @@
           target="_blank"
           class="w-fit"
           ><img
-            src="https://ixinb.com/wp-content/uploads/2020/02/%E8%B5%84%E6%BA%90-75x75.png"
+            src="https://ixinb.com/wp-content/uploads/2022/12/1670124567-Site-%E8%87%AA%E5%AE%9A%E4%B9%89-1.png"
             alt="uShare - A&#0032;simple&#0032;tool&#0032;for&#0032;generating&#0032;beautiful&#0032;sharing&#0032;interactions | Product Hunt"
             style="width: 250px; height: 54px"
             width="250"
