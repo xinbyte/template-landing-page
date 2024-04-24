@@ -15,9 +15,6 @@
       </a>
     </div>
     <div class="flex gap-x-4 items-center">
-      <div onclick="location.href='https://github.ac.cn/user/sign_up'">注册</div>
-    </div>
-    <div class="flex gap-x-4 items-center">
       <a
         href="https://discord.gg/"
         target="_blank"
