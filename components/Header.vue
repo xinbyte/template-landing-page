@@ -28,12 +28,12 @@
   import { SiteName } from '~/config'
   const NavList = [
     {
-      name: 'Testimonials',
+      name: '评价',
       value: 'testimonials',
       active: false,
     },
     {
-      name: 'Pricing',
+      name: '订阅',
       value: 'pricing',
       active: false,
     },

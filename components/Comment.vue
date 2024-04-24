@@ -1,9 +1,9 @@
 <template>
   <section class="w-full center flex-col gap-8">
     <h2 class="text-32px line-height-1em text-center">
-      <a id="testimonials">Customer Testimonials</a>
+      <a id="testimonials">用户评价</a>
     </h2>
-    <p>Thank you all for supporting uShare from the start!</p>
+    <p>优雅的自由代码托管!</p>
     <div class="flex gap-4 w-full justify-start flex-wrap">
       <UserCard
         v-for="user in UserList"

@@ -1,5 +1,5 @@
-export const SiteName = 'uShare'
+export const SiteName = 'Github.ac.cn'
 export const SiteDescription =
-  'Build beautiful sharing cards to spread your content wider'
+  '建立简洁并值得信任的代码仓库！'
 export const SiteIntro =
-  'Generate beautiful sharing cards on different devices, supporting code, text, and even markdown'
+  '通过实时备份和自有服务器，真正实现个人代码的私有仓库。'
